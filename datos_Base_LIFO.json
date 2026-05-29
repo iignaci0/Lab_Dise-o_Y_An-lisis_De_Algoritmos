@@ -1,0 +1,192 @@
+[
+  {
+    "id": 0,
+    "camino": [
+      "A"
+    ],
+    "cota": 21,
+    "estado": "Expandido"
+  },
+  {
+    "id": 1,
+    "camino": [
+      "A",
+      "B"
+    ],
+    "cota": 29,
+    "estado": "Expandido"
+  },
+  {
+    "id": 2,
+    "camino": [
+      "A",
+      "C"
+    ],
+    "cota": 27,
+    "estado": "Expandido"
+  },
+  {
+    "id": 3,
+    "camino": [
+      "A",
+      "D"
+    ],
+    "cota": 29,
+    "estado": "Expandido"
+  },
+  {
+    "id": 4,
+    "camino": [
+      "A",
+      "E"
+    ],
+    "cota": 40,
+    "estado": "Podado por Cota"
+  },
+  {
+    "id": 5,
+    "camino": [
+      "A",
+      "C",
+      "B"
+    ],
+    "cota": 30,
+    "estado": "Podado por Cota"
+  },
+  {
+    "id": 6,
+    "camino": [
+      "A",
+      "C",
+      "D"
+    ],
+    "cota": 46,
+    "estado": "Podado por Cota"
+  },
+  {
+    "id": 7,
+    "camino": [
+      "A",
+      "C",
+      "E"
+    ],
+    "cota": 30,
+    "estado": "Expandido"
+  },
+  {
+    "id": 8,
+    "camino": [
+      "A",
+      "C",
+      "E",
+      "B"
+    ],
+    "cota": 36,
+    "estado": "Podado por Cota"
+  },
+  {
+    "id": 9,
+    "camino": [
+      "A",
+      "C",
+      "E",
+      "D"
+    ],
+    "cota": 30,
+    "estado": "Expandido"
+  },
+  {
+    "id": 10,
+    "camino": [
+      "A",
+      "C",
+      "E",
+      "D",
+      "B"
+    ],
+    "cota": 30,
+    "estado": "Solucion Completa"
+  },
+  {
+    "id": 11,
+    "camino": [
+      "A",
+      "D",
+      "B"
+    ],
+    "cota": 32,
+    "estado": "Podado por Cota"
+  },
+  {
+    "id": 12,
+    "camino": [
+      "A",
+      "D",
+      "C"
+    ],
+    "cota": 53,
+    "estado": "Podado por Cota"
+  },
+  {
+    "id": 13,
+    "camino": [
+      "A",
+      "D",
+      "E"
+    ],
+    "cota": 29,
+    "estado": "Expandido"
+  },
+  {
+    "id": 14,
+    "camino": [
+      "A",
+      "D",
+      "E",
+      "B"
+    ],
+    "cota": 33,
+    "estado": "Podado por Cota"
+  },
+  {
+    "id": 15,
+    "camino": [
+      "A",
+      "D",
+      "E",
+      "C"
+    ],
+    "cota": 35,
+    "estado": "Podado por Cota"
+  },
+  {
+    "id": 16,
+    "camino": [
+      "A",
+      "B",
+      "C"
+    ],
+    "cota": 37,
+    "estado": "Podado por Cota"
+  },
+  {
+    "id": 17,
+    "camino": [
+      "A",
+      "B",
+      "D"
+    ],
+    "cota": 32,
+    "estado": "Podado por Cota"
+  },
+  {
+    "id": 18,
+    "camino": [
+      "A",
+      "B",
+      "E"
+    ],
+    "cota": 44,
+    "estado": "Podado por Cota"
+  }
+]
